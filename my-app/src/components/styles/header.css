@@ -1,0 +1,40 @@
+.our_company{
+    color: #333136;
+    font-size: 14px;
+    padding-right: 100px;
+    
+}
+.location{
+    color: #333136;
+    font-size: 14px;
+    padding-right: 120px;
+}
+.contact{
+    color: #333136;
+    font-size: 14px;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    justify-content:space-between;
+}
+.DESIGNO{
+   color:#333136;
+   padding-left: 50px;
+}
+.designo_and_logo{
+    display: flex;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
